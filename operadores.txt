@@ -24,7 +24,7 @@ a || b; //a o b son verdaderos
 
 //Operador aditivo
 a ++; //+1
-a +=b; //+b
+a += b; //+b
 
 //Comparar estricto (valor, tipo)
 3 === "3"; //false
