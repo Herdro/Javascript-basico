@@ -1,0 +1,8 @@
+// scope global
+    var nombre = "Pedro";
+
+// Scope Local
+    funcion fun() {
+        var apellido = "Herrera";
+        return nombre + " " + apellido
+    }
