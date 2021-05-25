@@ -1,0 +1,30 @@
+//Operadores matematicos (binarios)
+a + b
+a - b
+a * b
+a / b
+
+//concatenar
+"Pedro " + "Herrera"; //"Pedro Herrera"
+
+//Negación
+!false; //true
+
+//Asignación
+var a = 1;
+
+//Comparar
+3 == "3"; //true
+5 < 3; //false
+5 > 3; //true
+5 <= 6; //true
+5 >= 6; //false
+a && b; //a y b son verdaderos
+a || b; //a o b son verdaderos
+
+//Operador aditivo
+a ++; //+1
+a +=b; //+b
+
+//Comparar estricto (valor, tipo)
+3 === "3"; //false
