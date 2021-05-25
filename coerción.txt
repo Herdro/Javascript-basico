@@ -1,0 +1,10 @@
+//coerción inplicita
+    // cambio de tipo de valores
+        string > number
+        number < string
+    //ejemplo
+        4 + "7" = 47 //string
+        4 * "7" = 28 //number
+//coerción explicita
+    String(20); //string
+    Number(20); //number
